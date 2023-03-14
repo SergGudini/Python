@@ -9,6 +9,6 @@ if len(number) == 3:
         sum = int(number[i]) + sum 
         
 else:
-    print('Вы ввели не трехзначное число')
+    print('Вы ввели неправильное число')
     
 print('Сумма чисел: ', sum)
