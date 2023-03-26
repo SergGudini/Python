@@ -49,6 +49,7 @@ print(easy_number(103))"""
 # циклы (даже для ввода и вывода).
 
 num = [3,4,5]
+
 # print(sorted(num, reverse=True))
 
 # print(num[::-1])
