@@ -48,7 +48,7 @@ for k in range(numbers_connections):
 
    for count_thread in all_threads:
       count_thread.join()
-
+         
 # start = time.time() # Начало для одновременного выполнения всех URL запросов
 
 # all_threads = []
