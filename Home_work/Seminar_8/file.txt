@@ -1,0 +1,4 @@
+id,            lastname,            firstname,            secondname,            phone
+1,            Ivanov,            Ivan,            Ivanovich,            71234567890
+2,            Petrov,            Petr,            Petrovich,            71239997895
+4,            Lalka,            Lalkon,            Lalkonovich,            71239991247
