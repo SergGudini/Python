@@ -4,6 +4,13 @@
 # Результат должен быть в виде словаря {предмет:вес} с вещами в рюкзаке и сохранен в переменную backpack.
 # Достаточно получить один допустимый вариант и сохранить в переменную backpack. Не выводите backpack на экран.
 
+# backpack = {}
+
+# for item, weight in items.items():
+#     if weight <= max_weight:
+#         backpack[item] = weight
+#         max_weight -= weight
+
 items = {
     "спальник": 2.0,
     "палатка": 3.5,
